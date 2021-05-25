@@ -12,7 +12,7 @@ Client Server Connection through IP and Port:
 ![server_ip](res/snapshots/server_ip.png) 
 ![server_port](res/snapshots/server_port.png)
 
-![server initialized](res/snapshots/server initialized.png) 
+![server initialized](res/snapshots/server_initialized.png) 
 ![client_connected](res/snapshots/client_connected.png)
 
 ![board](res/snapshots/board.png)
